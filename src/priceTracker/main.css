@@ -1,0 +1,17 @@
+body {
+  background-color: #009dae !important;
+}
+.green {
+  color: #1b751b;
+}
+.red {
+  color: #ff0000;
+}
+.cryptoImage {
+  width: 40px;
+  margin-right: 10px;
+}
+table {
+  background-color: #161853 !important;
+  cursor: pointer;
+}
