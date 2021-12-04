@@ -4,4 +4,4 @@ This project made on React with CoinGecko API
 
 ## Demo version:
 
-https://cryptotracker-react-app.netlify.app/
+https://cryptotracker-app.netlify.app/
